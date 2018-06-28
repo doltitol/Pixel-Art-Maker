@@ -35,7 +35,7 @@ if($(this).attr('style')){
     $(this).removeAttr('style', 'background-color:'+color);
   }else {
     //add background color and change cursor to eraser
-    $(this).css({ 'cursor':'url("eraser.ico"),auto','background-color':color});
+    $(this).css({ 'cursor':'url("images/eraser.ico"),auto','background-color':color});
   }
 });
 //clear canvas style elements

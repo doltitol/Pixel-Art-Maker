@@ -7,7 +7,8 @@
   To launch the application
   1. Download and extract the project. Open the index.html file in the browser or
   2. Launch the live link from the browser.
-
+## Demo
+   <img src="images/eraser.ico" Width="100" height="100" >
 ## Features
 
   1. Enter Grid height and width. Click on the "submit" button to draw Grid.
