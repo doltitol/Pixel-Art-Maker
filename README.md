@@ -1,6 +1,6 @@
 # Pixel Art Maker Project
  ALC with Google Front End Project
- Launch Live project [here]().
+ Launch Live project [here](https://doltitol.github.io/Pixel-Art-Maker/).
 
 ## Instructions
 
