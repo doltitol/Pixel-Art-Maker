@@ -1,16 +1,16 @@
 # Pixel Art Maker Project
-
-## Table of Contents
-
-* [Instructions](#instructions)
-* [Contributing](#contributing)
+ ALC with Google Front End Project
+ Launch Live project [here]().
 
 ## Instructions
 
-To get started, open `designs.js` and start building out the app's functionality.
+  To launch the application
+  1. Download and extract the project. Open the index.html file in the browser or
+  2. Launch the live link from the browser.
 
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
+## Features
 
-## Contributing
-
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
+  1. Enter Grid height and width. Click on the "submit" button to draw Grid.
+  2. Click on Color Picker to select cell color of choice.
+  3. Cell cursor to add color to cell and eraser cursor to remove color from cell.
+  4. "Clear canvas" button to clear the present Design Canvas.
